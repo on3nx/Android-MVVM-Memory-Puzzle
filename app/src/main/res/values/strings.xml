@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Memory Puzzle</string>
+    <string name="size_label">49</string>
+    <string name="x_times">X</string>
+    <string name="grid">Set your Grid Size</string>
+    <string name="player">No. of Player</string>
+    <string name="loading_game">Loading...</string>
+
+    <string name="cd_board">Card Board</string>
+    <string name="cd_header">Players</string>
+
+    <string name="card_point">Point: %d</string>
+    <string name="player_score">Score: %d</string>
+    <string name="player_card">%s \n %d</string>
+</resources>
